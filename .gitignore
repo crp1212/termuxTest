@@ -1,0 +1,4 @@
+node_modules
+*.txt
+funtest.js
+debug/dist/*.html
